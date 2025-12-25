@@ -12,3 +12,9 @@ Here, we present SCmapST, a deep learning framework that leverages a novel seede
 ### 1. Requirements
   
 SCmapST is implemented in the PyTorch framework (tested on Python 3.9.19). We recommend that users run SCmapST on CUDA.
+
+- `Python 3.9`
+
+### 2. Example
+
+The detailed example can be found in [SCmapST_case.py](https://github.com/LYxiaotai/SCmapST/blob/main/SCmapST_case.py)
