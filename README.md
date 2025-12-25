@@ -2,4 +2,4 @@
 
 ## What is SCmapST?
 
-![Figure1_overview.tiff](https://github.com/LYxiaotai/SCmapST/blob/main/Figure1_overview.tiff)
+![Figure1_overview.tif](https://github.com/LYxiaotai/SCmapST/blob/main/Figure1_overview.tif)
