@@ -23,6 +23,6 @@ SCmapST is implemented in the PyTorch framework (tested on Python 3.9.19). We re
 
 ### 2. Example
 
-The detailed example can be found in [SCmapST_case.py](https://github.com/LYxiaotai/SCmapST/blob/main/SCmapST_case.py)
+The detailed example can be found in `SCmapST_case.py`
 
 The datasets used in the [SCmapST_case.py](https://github.com/LYxiaotai/SCmapST/blob/main/SCmapST_case.py) can be found [here](https://github.com/LYxiaotai/SCmapST/blob/main/Datasets/)
