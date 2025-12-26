@@ -19,7 +19,7 @@ SCmapST is implemented in the PyTorch framework (tested on Python 3.9.19). We re
 
 - More details on the dependences can be found in the `environment.txt` file.
 
-- To start using SCmapST, please download the script [Map61.py](https://github.com/LYxiaotai/SCmapST/blob/main/Map61.py)
+- To start using SCmapST, please download the script `Map61.py`
 
 ### 2. Example
 
