@@ -15,6 +15,12 @@ SCmapST is implemented in the PyTorch framework (tested on Python 3.9.19). We re
 
 - `Python 3.9`
 
+- Make sure you have [PyTorch](https://pytorch.org/) and [scanpy](https://scanpy.readthedocs.io/en/stable/) installed.
+
+- More details on the dependences can be found in the `environment.txt` file.
+
+- To start using SCmapST, please download the script [Map61.py](https://github.com/LYxiaotai/SCmapST/blob/main/Map61.py)
+
 ### 2. Example
 
 The detailed example can be found in [SCmapST_case.py](https://github.com/LYxiaotai/SCmapST/blob/main/SCmapST_case.py)
