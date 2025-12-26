@@ -6,7 +6,7 @@ import warnings
 import numpy as np
 warnings.filterwarnings("ignore")
 import random
-import compare_function1 as cf1
+import Map61 as cf1
 import sys
 import torch
 from scipy import sparse
